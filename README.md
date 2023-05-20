@@ -1,2 +1,4 @@
 # Random-Stuff-Mod
-My Random stuff mod adds in *drumroll please*... RANDOM STUFF! (this is a legacy version for 1.12.2 and will only be updated very very very rarely like a slight chance of once a year)
+DISCONTINUED
+
+A Minecraft Mod for version 1.12.2 that implements "random stuff" that I feel like adding. This project was discontinued as of January 2019 and will not recieve any updates and/or support.
